@@ -13,5 +13,5 @@ Clone the repository:
 
 git clone https://github.com/madihanazir/Sentiment-Analysis.git
 
-Install the required dependencies listed in the requirements.txt file.
+Install the required dependencies.
 Run the training and evaluation scripts to reproduce the results.
