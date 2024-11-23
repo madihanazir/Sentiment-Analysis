@@ -1,4 +1,4 @@
-This repository contains a sentiment analysis project focused on public sentiment regarding the Israel-Palestine war. The analysis was performed using the BERT (Bidirectional Encoder Representations from Transformers) model, which is well-known for its state-of-the-art performance in natural language processing tasks.
+This repository contains a sentiment analysis project focused on public sentiment regarding the Israel-Palestine war. The analysis was performed using the BERT (Bidirectional Encoder Representations from Transformers) model, which is well-known for natural language processing tasks.
 
 Key Features
 Model: BERT was fine-tuned for sentiment classification.
